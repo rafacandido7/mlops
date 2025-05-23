@@ -1,2 +1,5 @@
 minio_data
 data/clean
+venv
+artifacts
+__pycache__
